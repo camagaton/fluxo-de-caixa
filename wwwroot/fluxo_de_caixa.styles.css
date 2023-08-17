@@ -4,8 +4,6 @@
     width: 30%;
     height: 70px;
     padding: 10px;
-    align-items: center;
-    justify-items: center;
 }
 .div-inline-block p{
     font-weight: bold;
@@ -15,10 +13,24 @@
     background-color: red;
 }
 
+.div-inline-block-pesquisa{
+    display: inline-block;
+}
+
 .pesquisa{
     margin-top: 20px;
 }
 
-.div-inline-block-pesquisa{
-    display: inline-block;
+.btn-adicionar{
+    text-align: right;
+}
+
+.input-pesquisa{
+    width: 80%;
+    text-align: left;
+}
+
+.input-pesquisa input{
+    width: 80%;
+    padding: 5px;
 }

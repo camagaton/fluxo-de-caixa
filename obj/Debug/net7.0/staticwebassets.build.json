@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ODedbFjJZgz0aHyyIV3wJKevGNgk1hQht4x1mGBjUsQ=",
+  "Hash": "dPAdDuOh2zqmCWiVDV8C7uiXTA53SHFQaVPcW8arJ+I=",
   "Source": "fluxo-de-caixa",
   "BasePath": "_content/fluxo-de-caixa",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\projetos\\fluxo-de-caixa\\wwwroot\\fluxo_de_caixa.styles.css",
+      "SourceId": "fluxo-de-caixa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\projetos\\fluxo-de-caixa\\wwwroot\\",
+      "BasePath": "_content/fluxo-de-caixa",
+      "RelativePath": "fluxo_de_caixa.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fluxo_de_caixa.styles.css"
     },
     {
       "Identity": "C:\\projetos\\fluxo-de-caixa\\wwwroot\\js\\site.js",

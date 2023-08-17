@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\projetos\\fluxo-de-caixa\\wwwroot\\fluxo_de_caixa.styles.css",
+      "PackagePath": "staticwebassets\\fluxo_de_caixa.styles.css"
+    },
+    {
       "Id": "C:\\projetos\\fluxo-de-caixa\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
