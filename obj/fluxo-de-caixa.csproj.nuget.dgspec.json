@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {}
+    "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {
+    "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
+        "projectUniqueName": "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
         "projectName": "fluxo-de-caixa",
-        "projectPath": "C:\\projetos\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
-        "packagesPath": "C:\\Users\\TI03.ABC\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\fluxo-de-caixa\\obj\\",
+        "projectPath": "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
+        "packagesPath": "C:\\Users\\magat\\.nuget\\packages\\",
+        "outputPath": "d:\\PROJETOS\\fluxo-de-caixa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TI03.ABC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\magat\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
