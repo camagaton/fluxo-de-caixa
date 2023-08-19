@@ -34,3 +34,23 @@
     width: 80%;
     padding: 5px;
 }
+
+.tabela{
+    margin-top: 20px;
+}
+
+.tabela thead{
+    background-color: #e8e8e8;
+}
+
+.despesa-legenda{
+    width: 50px;
+    height: 10px;
+    background-color: red;
+}
+
+.receita-legenda{
+    width: 50px;
+    height: 10px;
+    background-color:blue;
+}

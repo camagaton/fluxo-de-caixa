@@ -25,12 +25,42 @@
 
     <div class="pesquisa">
         <div class="div-inline-block-pesquisa input-pesquisa">
-            <input type="text" name="pesquisa" id="pesquisa" placeholder="Digite algo">
+            <form action="/" >
+                <input type="text" name="tipo" placeholder="Digite algo">
+                <button class="btn btn-primary">Buscar</button>
+            </form>            
         </div>
         <div class="div-inline-block-pesquisa btn-adicionar">
             <a href="/adicionar" class="btn btn-primary">Adicionar</a>
         </div>
     </div>
+
+    <table class="table tabela">
+        <thead>
+            <tr>
+                <th>Tipo</th>
+                <th>Valor</th>
+                <th>Status</th>
+                <th>Legenda</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Gas de cozinha</td>
+                <td>- R$ 90,00</td>
+                <td>Despesa</td>
+                <td><div class="despesa-legenda"></div></td>
+            </tr>
+            <tr>
+                <td>Venda de peça</td>
+                <td> R$ 200,00</td>
+                <td>Receita</td>
+                <td><div class="receita-legenda"></div></td>
+            </tr>
+        </tbody>
+        
+    </table>
     
 
     

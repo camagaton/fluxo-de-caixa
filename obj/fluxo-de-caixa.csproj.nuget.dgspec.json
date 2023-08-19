@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {}
+    "D:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {}
   },
   "projects": {
-    "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {
+    "D:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa\\fluxo-de-caixa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
         "projectName": "fluxo-de-caixa",
-        "projectPath": "d:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
+        "projectPath": "D:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa\\fluxo-de-caixa.csproj",
         "packagesPath": "C:\\Users\\magat\\.nuget\\packages\\",
-        "outputPath": "d:\\PROJETOS\\fluxo-de-caixa\\obj\\",
+        "outputPath": "D:\\PROJETOS\\fluxo-de-caixa\\fluxo-de-caixa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\magat\\AppData\\Roaming\\NuGet\\NuGet.Config"
